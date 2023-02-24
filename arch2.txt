@@ -1,2 +1,1 @@
 texto del arch2.txt
-texto editado
